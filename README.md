@@ -64,4 +64,7 @@ covers ground that used to take a team.
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/kolgarn)
+[i.pinchuk.work@gmail.com](mailto:i.pinchuk.work@gmail.com) · [LinkedIn](https://linkedin.com/in/kolgarn)
+
+Happy to look at a codebase and tell you what I see. Written questions get written
+answers — no discovery call required.
